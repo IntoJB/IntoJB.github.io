@@ -1,4 +1,4 @@
-Package: com.nathedetihw.centeredlabels
+Package: com.nahtedetihw.centeredlabels
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: IntoJB GH <contactintojb@courvix.com>
@@ -12,7 +12,7 @@ Description: Centered labels for Settings.
 Author: IntoJB GH <contactintojb@courvix.com>
 Name: SettingCenter
 
-Package: com.nathedetihw.centeredlabels-rootless
+Package: com.nahtedetihw.centeredlabels-rootless
 Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: IntoJB GH <contactintojb@courvix.com>
