@@ -1,0 +1,27 @@
+Package: com.intojbsample.settingcenter
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: IntoJB GH <contactintojb@courvix.com>
+Filename: /SettingCenter.deb
+Size: 12264
+MD5sum: 6f8d5a3f6c615a4e6e0ce1a1f8e325df
+SHA1: fb47580693aa685c17473d4c7449c21aca614dbf
+SHA256: ad5b45061c653c7d1b84e3e42ecdc604ba22b1399018a47e0667af9bd0a51333
+Section: Tweaks
+Description: Centered labels for Settings.
+Author: IntoJB GH <contactintojb@courvix.com>
+Name: SettingCenter
+
+Package: com.intojbsample.settingcenterrl
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: IntoJB GH <contactintojb@courvix.com>
+Filename: /SettingCenterRootless.deb
+Size: 17016
+MD5sum: e8d6867e84e1955d9d1cb940f5135391
+SHA1: fe4de2fbb30276642748c789e8a5bdab8d4ccb12
+SHA256: 8c4423940d14988faa5db757469f660dde745b5e2a22558eb5d5fa692b196cae
+Section: Tweaks
+Description: Centered labels for Settings. 
+Author: IntoJB GH <contactintojb@courvix.com>
+Name: SettingCenter Rootless
